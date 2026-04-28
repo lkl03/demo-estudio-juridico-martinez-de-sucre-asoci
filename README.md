@@ -1,2 +1,7 @@
-# demo-estudio-juridico-martinez-de-sucre-asoci
-Demo web para Estudio Juridico Martinez De Sucre &amp; Asociados — diseñada por eterlab.
+# Estudio Juridico Martinez De Sucre & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
